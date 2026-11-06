@@ -10,31 +10,33 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Repository URL | https://github.com/mrdoob/three.js   |
+| Main/documentation website |  https://threejs.org and https://threejs.org/docs/  |
+| Year project was started | 2010  |
+| Number of contributors in the past year | 225 |
+| Number of contributors in the lifetime of the project | 2531  |
+| Number of distinct affiliations | Lots above 10, META, NYU, Independent developers, etc... |
+| Where do development discussions take place? | GitHub issues and pull requests, Discord  |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Typical number of commits per week? | 45 |
+| Typical commit size | Looks like between 1-5 files and 9-50 lines, with some occasional huge changes |
+| How does the project accept contributions? | CONTRIBUTING.md says to fork and then submit a pull request   |
+| Does the project have an automated test suite? | npm test |
+| Does the project use continuous integration? | The GitHub Actions tab is populated, so yes, probably |
+| Does the project have an AI contribution policy? | Couldn't find any mention; searched the license or CONTRIBUTING.md using cmd f for 'AI' |
+| Are any legal/licensing steps required to contribute? | The license is MIT |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [ x ] I have installed the software (lightweight three.js)
+- [ x ] I have run at least one example (webgl reversed depth buffer)
+- [ x ] I have run the test suite (npm test)
+- [ x ] The test suite passes
+
+<img width="550" height="400" alt="Screenshot 2026-11-05 at 7 55 42 PM" src="https://github.com/user-attachments/assets/c8180676-83da-4a2f-8888-2d4842d270f1" />
 
 ### Notes/concerns/risks
 
