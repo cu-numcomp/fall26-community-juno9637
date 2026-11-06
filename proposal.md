@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *three.js*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Three.js is a JavaScript library used to render 3D graphics on web browsers using WebGL and WebGPU. It let's the developer use various common 3D tool like lights, materials, meshes, and shader scripts without exposing all the underlying rendering logic. Its audience is web developers, artists, game developers, data visualization, mapping, and education. My project will focus on Z-fighting, which, as seen in the example below, happens on different scales, so choosing between them becomes a conditioning problem. Plus, I love Three.js, and I'm currently using it to co-author a paper with my ENVD professor.
 
 ### Stats
 
