@@ -17,7 +17,7 @@ primary audience is.*
 | Number of contributors in the lifetime of the project | 2531  |
 | Number of distinct affiliations | Lots above 10, META, NYU, Independent developers, etc... |
 | Where do development discussions take place? | GitHub issues and pull requests, Discord  |
-| Typical number of emails/comments per week? |   |
+| Typical number of emails/comments per week? | About 5 per week with no comments  |
 | Typical number of commits per week? | 45 |
 | Typical commit size | Looks like between 1-5 files and 9-50 lines, with some occasional huge changes |
 | How does the project accept contributions? | CONTRIBUTING.md says to fork and then submit a pull request   |
